@@ -1,0 +1,49 @@
+#duxinshu_bg {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 0;
+    background: url(../img/dxs_bg.gif);
+    background-size: 100% 100%
+}
+
+#duxinshu_bg div {
+    width: 300px;
+    height: 300px;
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center
+}
+
+#duxinshu_result_img {
+    width: 156px;
+    height: 156px
+}
+
+#duxinshu_sysm-list {
+    margin: 0 auto;
+    padding: 0
+}
+
+#duxinshu_sysm-list li {
+    padding: 2px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 2px;
+    vertical-align: middle;
+    border-top: 1px solid seagreen
+}
+
+#duxinshu_sysm-list li span {
+    background: #d38efa;
+    color: #fff;
+    border-radius: 10px;
+    width: 18px;
+    height: 18px;
+    display: inline-block
+}
+
+#duxinshu_sysm-list li img {
+    width: 40px;
+    height: 40px
+}
